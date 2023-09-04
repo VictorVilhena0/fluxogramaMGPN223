@@ -1,35 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T18:00:04.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="KWeogmgG4hEQ4zSHJX9O" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T18:04:42.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="t4scnS5_cfUqK-br8Cno" version="21.7.2" type="github">
   <diagram name="Page-1" id="IFbi0l0zsZ9HXe9LOnJm">
     <mxGraphModel dx="1361" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UpsidfB4OOWGOqYcArzy-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UpsidfB4OOWGOqYcArzy-1" target="UpsidfB4OOWGOqYcArzy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UpsidfB4OOWGOqYcArzy-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Início&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="160" width="160" height="60" as="geometry" />
+          <mxGeometry x="40" y="160" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpsidfB4OOWGOqYcArzy-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UpsidfB4OOWGOqYcArzy-2" target="UpsidfB4OOWGOqYcArzy-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UpsidfB4OOWGOqYcArzy-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Fornecedor chega na empresa&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="160" width="160" height="60" as="geometry" />
+          <mxGeometry x="265" y="160" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpsidfB4OOWGOqYcArzy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpsidfB4OOWGOqYcArzy-3" target="UpsidfB4OOWGOqYcArzy-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpsidfB4OOWGOqYcArzy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpsidfB4OOWGOqYcArzy-3" target="UpsidfB4OOWGOqYcArzy-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UpsidfB4OOWGOqYcArzy-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Fornecedor está registrado no sistema?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="260" width="200" height="120" as="geometry" />
+          <mxGeometry x="460" y="270" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UpsidfB4OOWGOqYcArzy-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UpsidfB4OOWGOqYcArzy-4" target="UpsidfB4OOWGOqYcArzy-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UpsidfB4OOWGOqYcArzy-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Funcionário da portaria realiza a identificação&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="160" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UpsidfB4OOWGOqYcArzy-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UpsidfB4OOWGOqYcArzy-6" target="UpsidfB4OOWGOqYcArzy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UpsidfB4OOWGOqYcArzy-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Funcionário coleta a nota fiscal e realiza a verificação da mesma&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="440" width="170" height="80" as="geometry" />
+          <mxGeometry x="475" y="450" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpsidfB4OOWGOqYcArzy-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpsidfB4OOWGOqYcArzy-8" target="UpsidfB4OOWGOqYcArzy-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpsidfB4OOWGOqYcArzy-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpsidfB4OOWGOqYcArzy-8" target="UpsidfB4OOWGOqYcArzy-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UpsidfB4OOWGOqYcArzy-8" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Há alguma divergência na nota fiscal?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="520" width="200" height="120" as="geometry" />
+          <mxGeometry x="190" y="430" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UpsidfB4OOWGOqYcArzy-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpsidfB4OOWGOqYcArzy-9" target="UpsidfB4OOWGOqYcArzy-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UpsidfB4OOWGOqYcArzy-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Funcionário recebe os produtos&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="670" width="150" height="80" as="geometry" />
+          <mxGeometry x="400" y="690" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpsidfB4OOWGOqYcArzy-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpsidfB4OOWGOqYcArzy-10" target="UpsidfB4OOWGOqYcArzy-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500.0000000000002" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="890" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="UpsidfB4OOWGOqYcArzy-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Funcionário não recebe os produtos e devolve a nota fiscal para o fornecedor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="580" width="190" height="80" as="geometry" />
+          <mxGeometry x="130" y="850" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpsidfB4OOWGOqYcArzy-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpsidfB4OOWGOqYcArzy-11" target="UpsidfB4OOWGOqYcArzy-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UpsidfB4OOWGOqYcArzy-11" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;É possível receber os produtos mesmo assim?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="520" width="200" height="120" as="geometry" />
+          <mxGeometry x="10" y="590" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UpsidfB4OOWGOqYcArzy-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Fim&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="700" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
